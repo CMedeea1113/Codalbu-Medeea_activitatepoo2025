@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Medeea\\Desktop\\Codalbu-Medeea_activitatepoo2025\\oop_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC41064-16B5-41C5-B662-0B2590AD89F5}|oop_3.vcxproj|C:\\Users\\Medeea\\Desktop\\Codalbu-Medeea_activitatepoo2025\\oop_3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC41064-16B5-41C5-B662-0B2590AD89F5}|oop_3.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Medeea\\Desktop\\Codalbu-Medeea_activitatepoo2025\\oop_3\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Medeea\\Desktop\\Codalbu-Medeea_activitatepoo2025\\oop_3\\Source.cpp*",
+              "RelativeToolTip": "Source.cpp*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T12:33:31.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
