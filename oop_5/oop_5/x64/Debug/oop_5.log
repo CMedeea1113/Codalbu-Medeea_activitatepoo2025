@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Medeea\Desktop\Codalbu-Medeea_activitatepoo2025\oop_5\Source.cpp(338,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  oop_5.vcxproj -> C:\Users\Medeea\Desktop\Codalbu-Medeea_activitatepoo2025\oop_5\x64\Debug\oop_5.exe
